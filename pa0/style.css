@@ -1,0 +1,39 @@
+.navbar
+{
+    padding:0px;
+    margin:0px;
+    background-color: greenyellow;
+}
+
+.container
+{
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+    background-color: grey;
+    height:686px;
+    
+}
+.left
+{
+    
+    justify-content: center;
+    padding-right: 130px;
+    
+}
+.right
+{
+    justify-content: center;
+    padding-left: 130px;
+}
+h1
+{
+    text-align: center;
+}
+textarea
+{
+    outline: none;
+    font-size: 30px;
+    border-radius: 10px;
+    padding:10px ;
+}
